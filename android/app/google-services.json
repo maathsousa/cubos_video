@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566852046724",
+    "project_id": "cubos-video",
+    "storage_bucket": "cubos-video.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566852046724:android:5c7d78c87cc78fdbd957d1",
+        "android_client_info": {
+          "package_name": "com.math.cubos_video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ8QJyTgMLCwDIFnCXhbALuNpAxEtdKHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
