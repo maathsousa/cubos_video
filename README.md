@@ -1,16 +1,39 @@
-# cubos_video
+# 🎬 Cubos Video — Desafio Técnico Flutter
 
-A new Flutter project.
+Aplicativo desenvolvido como parte do **desafio técnico de Flutter da Cubos**.  
+O app permite **listar filmes, visualizar detalhes, filtrar por categorias, buscar por nome e alternar entre tema claro e escuro**, seguindo o layout proposto no Figma.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter 3.x**
+- **Dart**
+- **Firebase Auth**
+- **API The Movie Database (TMDB)**
+- **Gerenciamento de Estado**
+- **dotenv** para configuração de ambiente
+- **Google Fonts**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Funcionalidades do App
+
+- 🔐 **Login com Firebase Authentication**
+- 🎞️ **Listagem de filmes** consumindo a API TMDB
+- 🔍 **Busca por nome**
+- 🗂️ **Filtros por categoria** (tabs)
+- 🌗 **Alternância entre tema claro e escuro** + persistência local
+- 🎨 **Fidelidade visual ao layout do Figma**
+- 🧩 Arquitetura organizada e modular
+- 📄 Página de detalhes do filme (sinopse, gênero, nota etc.)
+
+---
+
+## 🛠️ Como rodar o projeto localmente
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/maathsousa/cubos_video.git
+cd cubos_video
